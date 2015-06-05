@@ -250,6 +250,10 @@
 .#{$ionicons-prefix}help:before,
 .#{$ionicons-prefix}help-buoy:before,
 .#{$ionicons-prefix}help-circled:before,
+.#{$ionicons-prefix}heroku-logo-solid-black:before,
+.#{$ionicons-prefix}heroku-logo-stroke-black:before,
+.#{$ionicons-prefix}heroku-logotype-horizontal-black:before,
+.#{$ionicons-prefix}heroku-logotype-vertical-black:before,
 .#{$ionicons-prefix}home:before,
 .#{$ionicons-prefix}icecream:before,
 .#{$ionicons-prefix}image:before,
@@ -986,6 +990,10 @@
 .#{$ionicons-prefix}help:before { content: $ionicon-var-help; }
 .#{$ionicons-prefix}help-buoy:before { content: $ionicon-var-help-buoy; }
 .#{$ionicons-prefix}help-circled:before { content: $ionicon-var-help-circled; }
+.#{$ionicons-prefix}heroku-logo-solid-black:before { content: $ionicon-var-heroku-logo-solid-black; }
+.#{$ionicons-prefix}heroku-logo-stroke-black:before { content: $ionicon-var-heroku-logo-stroke-black; }
+.#{$ionicons-prefix}heroku-logotype-horizontal-black:before { content: $ionicon-var-heroku-logotype-horizontal-black; }
+.#{$ionicons-prefix}heroku-logotype-vertical-black:before { content: $ionicon-var-heroku-logotype-vertical-black; }
 .#{$ionicons-prefix}home:before { content: $ionicon-var-home; }
 .#{$ionicons-prefix}icecream:before { content: $ionicon-var-icecream; }
 .#{$ionicons-prefix}image:before { content: $ionicon-var-image; }
