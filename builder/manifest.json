@@ -1,5 +1,5 @@
 {
-  "build_hash": "bfbc9d3897890a1c08992ae47f9207f0",
+  "build_hash": "5fa48ce7419b7a14df37e958179ba811",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -529,6 +529,10 @@
       "name": "aperture"
     },
     {
+      "code": "0xf14e",
+      "name": "app"
+    },
+    {
       "code": "0xf102",
       "name": "archive"
     },
@@ -997,8 +1001,20 @@
       "name": "help-circled"
     },
     {
+      "code": "0xf14d",
+      "name": "heroku-logo-solid"
+    },
+    {
+      "code": "0xf14c",
+      "name": "heroku-logo-solid-01"
+    },
+    {
       "code": "0xf138",
       "name": "heroku-logo-solid-black"
+    },
+    {
+      "code": "0xf146",
+      "name": "heroku-logo-solid-black-01"
     },
     {
       "code": "0xf13b",
@@ -2141,6 +2157,26 @@
       "name": "knife"
     },
     {
+      "code": "0xf150",
+      "name": "lang-java"
+    },
+    {
+      "code": "0xf151",
+      "name": "lang-node"
+    },
+    {
+      "code": "0xf152",
+      "name": "lang-php"
+    },
+    {
+      "code": "0xf153",
+      "name": "lang-python"
+    },
+    {
+      "code": "0xf154",
+      "name": "lang-scala"
+    },
+    {
       "code": "0xf1fc",
       "name": "laptop"
     },
@@ -2283,6 +2319,10 @@
     {
       "code": "0xf341",
       "name": "network"
+    },
+    {
+      "code": "0xf14f",
+      "name": "ninja"
     },
     {
       "code": "0xf2c2",
